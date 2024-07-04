@@ -1,0 +1,6 @@
+error: wrong endpoint => time: 2024-07-04T07:29:05.803Z
+error: data and hash arguments required => time: 2024-07-04T07:29:53.349Z
+error: data and hash arguments required => time: 2024-07-04T07:29:56.854Z
+error: data and hash arguments required => time: 2024-07-04T07:30:09.329Z
+error: data and hash arguments required => time: 2024-07-04T07:31:07.197Z
+error: data and hash arguments required => time: 2024-07-04T07:34:21.064Z
